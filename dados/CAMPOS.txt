@@ -1,0 +1,21 @@
+SACPED
+
+CAMPO 		TIPO	TAMANHO
+-------------------------------
+PED_ORDSER	 A	6
+INDICE
+indPER_ORDSER
+_______________________________
+
+SACGTM
+CAMPO 		TIPO	TAMANHO
+-------------------------------
+GTM_FLCANC	 A	1
+Defalt Value = A
+_______________________________
+TABELA NOVA - SACQTD.DB
+-------------------------------
+QTD_NRPEDI 	 A	7
+QTD_CDBARR 	 A	13
+QTD_CDTAMA 	 A	2
+QTD_QTTAMA 	 N	7
